@@ -1,7 +1,6 @@
 from sympy import *
 import math
 init_printing(use_unicode=True)
-# H3PO4 + (NH4)2MoO4 + HNO3 + H2O-> (NH4)3PO4.12MoO3 + NH4NO3
 
 
 def simplify(formula_in):
