@@ -2,7 +2,6 @@ from sympy import *
 init_printing(use_unicode=True)
 import math
 import re
-# H3PO4 + (NH4)2MoO4 + HNO3 + H2O-> (NH4)3PO4.12MoO3 + NH4NO3
 
 equation = str(input("Enter the equation: \n"))
 equation = equation.replace("->", "+").replace(" ", "")
