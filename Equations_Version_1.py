@@ -1,3 +1,5 @@
+#sympy library should be installed for the program to work
+#It can be installed using the command sudo pip3 install sympy
 from sympy import *
 import math
 init_printing(use_unicode=True)
