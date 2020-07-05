@@ -1,3 +1,4 @@
 # Python-Equation-Balancer
 
-This is a program written in python which balances chemical equations entered by the user
+Python code to balance the chemical equation entered by the user.
+It does this by inserting the equation into a matrix and converting it to RREF form.
