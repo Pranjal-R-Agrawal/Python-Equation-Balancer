@@ -1,4 +1,0 @@
-Requirements:
-
-Kivy
-KivyMD
