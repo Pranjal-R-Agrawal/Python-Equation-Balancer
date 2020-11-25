@@ -1,6 +1,3 @@
-Requirements:
 Sympy 
-
-Requirements for GUI:
 Kivy
 KivyMD
